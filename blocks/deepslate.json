@@ -1,0 +1,22 @@
+{
+  "format_version": "1.10",
+  "minecraft:block": {
+    "description": {
+      "identifier": "minecraft:deepslate",
+      "category": "Misc",
+      "is_experimental": false,
+      "properties": {
+        "transparent": true
+      }
+    },
+    "components": {
+      "minecraft:texture": "textures/blocks/deepslate",
+      "minecraft:material_instances": {
+        "*": {
+          "textures": "textures/blocks/deepslate"
+        }
+      },
+      "minecraft:light_transmission": 0.01  // 光の遮断度を1%に設定
+    }
+  }
+}
