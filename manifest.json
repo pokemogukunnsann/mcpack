@@ -1,17 +1,14 @@
 {
   "format_version": 2,
   "header": {
-    "name": "発光させる 石 & 深層岩",
-    "description": "発光テクスチャで石とディープスレートが輝きます。",
-    "uuid": "dc3ae6db-cfb5-4e83-a86d-f6b27c792358",
-    "version": [1, 0, 0],
-    "min_engine_version": [1, 16, 100]
+    "description": "透過石と深層岩",
+    "name": "透過ブロックパック",
+    "uuid": "548670ce-3673-4cfa-bef9-15914688414f",
+    "version": [1, 0, 0]
   },
-  "modules": [
-    {
-      "type": "resources",
-      "uuid": "912cd45b-dbc5-40a9-8a84-3ce2751d9bd9",
-      "version": [1, 0, 0]
-    }
-  ]
+  "modules": [],
+  "dependencies": [],
+  "metadata": {
+    "creator": "Your Name"
+  }
 }
