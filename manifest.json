@@ -1,14 +1,16 @@
 {
   "format_version": 2,
   "header": {
-    "name": "発光させる。石 & 深層岩",
-    "uuid": "d3dd3552-d266-4229-8eb3-a5ea2468f830",
-    "version": [1, 0, 0]
+    "name": "発光させる 石 & 深層岩",
+    "description": "発光テクスチャで石とディープスレートが輝きます。",
+    "uuid": "dc3ae6db-cfb5-4e83-a86d-f6b27c792358",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 16, 100]
   },
   "modules": [
     {
       "type": "resources",
-      "uuid": "dd37a29f-9426-4b48-ae24-a44172783d03",
+      "uuid": "912cd45b-dbc5-40a9-8a84-3ce2751d9bd9",
       "version": [1, 0, 0]
     }
   ]
