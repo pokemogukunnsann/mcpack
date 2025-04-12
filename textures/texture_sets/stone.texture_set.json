@@ -1,9 +1,0 @@
-{
-  "format_version": "1.16.100",
-  "texture_data": {
-    "stone": {
-      "textures": "textures/blocks/stone",
-      "emissive": "textures/emissive/stone_emissive"
-    }
-  }
-}

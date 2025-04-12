@@ -1,9 +1,0 @@
-{
-  "format_version": "1.16.100",
-  "texture_data": {
-    "deepslate": {
-      "textures": "textures/blocks/deepslate",
-      "emissive": "textures/emissive/deepslate_emissive"
-    }
-  }
-}
