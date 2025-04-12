@@ -2,7 +2,7 @@
   "format_version": "1.10",
   "minecraft:block": {
     "description": {
-      "identifier": "minecraft:deepslate",
+      "identifier": "minecraft:stone",
       "category": "Misc",
       "is_experimental": false,
       "properties": {
@@ -10,10 +10,10 @@
       }
     },
     "components": {
-      "minecraft:texture": "textures/blocks/deepslate",
+      "minecraft:texture": "textures/blocks/stone",
       "minecraft:material_instances": {
         "*": {
-          "textures": "textures/blocks/deepslate"
+          "textures": "textures/blocks/stone"
         }
       },
       "minecraft:light_transmission": 0.01  // 光の遮断度を1%に設定
